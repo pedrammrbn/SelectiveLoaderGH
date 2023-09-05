@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Github Repo\\SelectiveLoaderGH\\src\\SelectiveLoaderGH\\SelectiveLoaderGH.csproj": {}
+  },
+  "projects": {
+    "E:\\Github Repo\\SelectiveLoaderGH\\src\\SelectiveLoaderGH\\SelectiveLoaderGH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Github Repo\\SelectiveLoaderGH\\src\\SelectiveLoaderGH\\SelectiveLoaderGH.csproj",
+        "projectName": "SelectiveLoaderGH",
+        "projectPath": "E:\\Github Repo\\SelectiveLoaderGH\\src\\SelectiveLoaderGH\\SelectiveLoaderGH.csproj",
+        "packagesPath": "C:\\Users\\Pedram Mirabian\\.nuget\\packages\\",
+        "outputPath": "E:\\Github Repo\\SelectiveLoaderGH\\src\\SelectiveLoaderGH\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pedram Mirabian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.13.21348.13001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

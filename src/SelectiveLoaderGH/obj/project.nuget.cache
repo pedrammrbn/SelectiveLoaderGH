@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ql7iBvizcaKWREJyuD05H6r9C0wzJ6g8JnsCtLYtjeFkHvnMA5ivQ7VqsAVOgRNjLQJ9E+r49fwg0JhzFdbu5A==",
+  "success": true,
+  "projectFilePath": "E:\\Github Repo\\SelectiveLoaderGH\\src\\SelectiveLoaderGH\\SelectiveLoaderGH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedram Mirabian\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\Pedram Mirabian\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
